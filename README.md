@@ -8,23 +8,23 @@ Each week has a short video (released on Friday) and an associated longer video 
 ## Week 2 - Second order optimization - Jacobian, hessian, laplacian
  Newtons method for logistic regression
 ## Week 3 - Vectors - Vector spaces, vector norms, matrices
- K Means Clustering Algorithm
+ K Means Clustering Algorithm ----------Pending! 
 ## Week 4 - Matrix operations - Dot product, matrix inverse, projections
- Convolutional Neural Network
+ Convolutional Neural Network ---------Pending! 
 ## Week 5 - Dimensionality Reduction - matrix decomposition, eigenvectors, eigenvalues
- Recurrent Neural Network
+ Recurrent Neural Network  --------Pending! 
 ## Week 6 - Probability Theory - Bayes Theorem, Naive Bayes, Laplace Smoothing 
- Random Forests 
+ Random Forests -------Pending! 
  ## Week 7 - Hyperparameter Optimization - Bayesian vs Frequentist, Distributions, Bayesian Optimization
- Gaussian Mixture Models
+ Gaussian Mixture Models ------Pending! 
 ## Week 8 - Stochastic Models - Generative Networks, probabilistic node
- XGBoost 
+ XGBoost -----Pending! 
 ## Week 9 - Types of Probability - Joint, Conditional, chain rule
- The Fundamental Theorem of Linear Algebra
+ The Fundamental Theorem of Linear Algebra ----Pending! 
 ## Week 10 - Sampling -MCMC, Gibbs, Slice
- LDA
+ LDA ---Pending! 
 ## Week 11 - Reinforcement - Markov chains, Monte Carlo, Markov Decision Processes
- Game Bot 
+ Game Bot --Pending! 
 ## Week 12 - Quantum Machine Learning
-Quantum Computing 
+Quantum Computing -Pending!
 
